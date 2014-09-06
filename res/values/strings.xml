@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Dashclock Bixi Extension</string>
+    <string name="extension_title">Bixi Extension</string>
+    <string name="extension_description">Displays the distance to the nearest Bixi station where bikes and docks are available.</string>
+    <string name="title_settings">Bixi Extension Settings</string>
+    <string name="pref_city_title">City</string>
+    <string name="pref_city_dialog_title">Select your city</string>
+    <string name="pref_city_default">http://bixi.herokuapp.com/montreal</string>
+    
+    <string-array name="pref_city_entries">
+        <item>Montreal</item>
+        <item>Ottawa</item>
+        <item>Toronto</item>
+    </string-array>
+    
+    <string-array name="pref_city_api">
+        <item>http://bixi.herokuapp.com/montreal</item>
+        <item>http://bixi.herokuapp.com/ottawa</item>
+        <item>http://bixi.herokuapp.com/ottawa</item>
+    </string-array>
+
+</resources>
